@@ -7,7 +7,7 @@
 
 
 <!-- Coder Uncle Pic -->
-<div id="header" align="left">
+<div id="header" align="center">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/> 
 
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
